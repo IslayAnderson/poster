@@ -77,8 +77,8 @@ header {
         width:100%;
         &.headline{ 
             .tag_cloud {
-                writing-mode: unset;
-                text-orientation: unset;
+                max-height: 110vw;
+                max-width: 55vw;
             }
         }
         &:nth-child(odd){
