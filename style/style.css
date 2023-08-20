@@ -1,7 +1,15 @@
+html {
+    background-color: #fefff5;
+}
+
+body {
+    color: #4d4f4a;
+}
+
 header {
     display: flex;
     justify-content: center;
-    border-bottom: solid black 2px;
+    border-bottom: solid #4d4f4a 2px;
 }
 
 .title {
@@ -26,7 +34,7 @@ header {
     padding: 2rem;
 }
 .project .section_headline:visited {
-    color: inherit;
+    color: #4d4f4a;
 }
 .project.headline {
     display: flex;
@@ -62,7 +70,7 @@ header {
     height: 2px;
     width: 100%;
     display: inline-block;
-    background: #000;
+    background: #4d4f4a;
     margin: 2rem 0;
 }
 

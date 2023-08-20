@@ -1,9 +1,16 @@
 $breakpoint-tablet: 900px;
-
+$white: #fefff5;
+$black: #4d4f4a;
+html{
+    background-color: $white;
+}
+body{
+    color: $black;
+}
 header {
     display: flex;
     justify-content: center;
-    border-bottom: solid black 2px;
+    border-bottom: solid $black 2px;
 }
 .title {
     text-align: center;
@@ -24,7 +31,7 @@ header {
     box-sizing: content-box;
     padding: 2rem;
     .section_headline:visited {
-        color: inherit;
+        color: $black;
     }
     &.headline {
         display: flex;
@@ -62,7 +69,7 @@ header {
     height: 2px;
     width: 100%;
     display: inline-block;
-    background: #000;
+    background: $black;
     margin: 2rem 0;
 }
 
