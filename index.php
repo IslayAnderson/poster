@@ -50,10 +50,10 @@
                 <div class="h_line"></div>
                 <div class="lastest_entry">
                     <h3>Public Performance: Cuban Family code referendum</h3>
-                    <p>On September the 22nd 6 million Cubans took part in a constitutional referendum to include some of the most progressive legislation regarding sexuality, gender and the family unit. Passing with a 74% turnout voting in favour at 67%.</p>
                     <p>On September the 22nd 6 million Cubans took part in a constitutional referendum to include some of the most progressive legislation regarding sexuality, gender and the family unit.<br />Passing with a 74% turnout voting in favour at 67%.</p>
                     <p>With code that extends familial responsibilities to other senior members such as grandparents or surrogate mothers acknowledging the existence of non-traditional family structures, legalises same sex marriage, allowing same sex parents to adopt and outlawing child marriage.</p>
                     <p>The new Cuban family code leap frogs the so called progressive leaders in Europe with phrasing in such as &ldquo;Love and solidarity are the platforms and axes on which family relationships revolve&rdquo; decoupling love and family from the concepts of sex and gender.<br />Acknowledging the people who had been lost in the cracks of its legislation like young people with no access to services they need because they were part of a queer or non-traditional family.<br />And showing the rest of the world what true socialism can achieve.</p>
+                    <p>An astounding display of democracy held and led by its proletariat taking root post Raul Castro&rsquo;s entry to office in 2006 and introducing sweeping economic reforms in the country leading to Cuba&rsquo;s third constitutional referendum in 2011.</p>
                     <a href="https://blog.islayanderson.co.uk/index.php/2022/11/09/public-performance-cuban-family-code-referendum/" title="latest blog entry">permalink</a>
                 </div>
             </div>
