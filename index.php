@@ -54,7 +54,7 @@
                     <p>On September the 22nd 6 million Cubans took part in a constitutional referendum to include some of the most progressive legislation regarding sexuality, gender and the family unit.<br />Passing with a 74% turnout voting in favour at 67%.</p>
                     <p>With code that extends familial responsibilities to other senior members such as grandparents or surrogate mothers acknowledging the existence of non-traditional family structures, legalises same sex marriage, allowing same sex parents to adopt and outlawing child marriage.</p>
                     <p>The new Cuban family code leap frogs the so called progressive leaders in Europe with phrasing in such as &ldquo;Love and solidarity are the platforms and axes on which family relationships revolve&rdquo; decoupling love and family from the concepts of sex and gender.<br />Acknowledging the people who had been lost in the cracks of its legislation like young people with no access to services they need because they were part of a queer or non-traditional family.<br />And showing the rest of the world what true socialism can achieve.</p>
-                    <a href="" title="latest blog entry">permalink</a>
+                    <a href="https://blog.islayanderson.co.uk/index.php/2022/11/09/public-performance-cuban-family-code-referendum/" title="latest blog entry">permalink</a>
                 </div>
             </div>
         </div>

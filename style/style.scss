@@ -1,3 +1,5 @@
+$breakpoint-tablet: 900px;
+
 header {
     display: flex;
     justify-content: center;
@@ -64,3 +66,23 @@ header {
     margin: 2rem 0;
 }
 
+
+
+
+
+
+
+@media (max-width: $breakpoint-tablet) {
+    .project{
+        width:100%;
+        &.headline{ 
+            .tag_cloud {
+                writing-mode: unset;
+                text-orientation: unset;
+            }
+        }
+        &:nth-child(odd){
+            border-right: unset;
+        }
+    }
+}

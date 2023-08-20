@@ -65,3 +65,16 @@ header {
     background: #000;
     margin: 2rem 0;
 }
+
+@media (max-width: 900px) {
+    .project {
+        width: 100%;
+    }
+    .project.headline .tag_cloud {
+        writing-mode: unset;
+        text-orientation: unset;
+    }
+    .project:nth-child(odd) {
+        border-right: unset;
+    }
+}
