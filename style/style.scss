@@ -33,6 +33,9 @@ header {
     .section_headline:visited {
         color: $black;
     }
+    .section_headline {
+        color: $black;
+    }
     &.headline {
         display: flex;
         align-content: center;

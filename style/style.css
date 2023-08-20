@@ -36,6 +36,9 @@ header {
 .project .section_headline:visited {
     color: #4d4f4a;
 }
+.project .section_headline {
+    color: #4d4f4a;
+}
 .project.headline {
     display: flex;
     align-content: center;
