@@ -1,0 +1,67 @@
+header {
+    display: flex;
+    justify-content: center;
+    border-bottom: solid black 2px;
+}
+
+.title {
+    text-align: center;
+    text-decoration: underline;
+}
+.title > span {
+    display: block;
+    text-decoration: unset;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.project {
+    min-width: calc(50vw - 6rem);
+    width: calc(50vw - 6rem);
+    box-sizing: content-box;
+    padding: 2rem;
+}
+.project .section_headline:visited {
+    color: inherit;
+}
+.project.headline {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.project.headline .tag_cloud {
+    max-height: 36vw;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+.project.headline .tag_cloud span {
+    display: inline-block;
+    margin: 0 0.25rem;
+    font-size: 2rem;
+}
+.project.proof img {
+    height: 75vh;
+    width: 100%;
+    object-fit: cover;
+}
+.project:nth-child(odd) {
+    border-right: solid 2px;
+}
+
+.h_line {
+    height: 2px;
+    width: 100%;
+    display: inline-block;
+    background: #000;
+    margin: 2rem 0;
+}
