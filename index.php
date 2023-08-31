@@ -64,9 +64,9 @@
                 ?>
                 <div class="h_line"></div>
                 <div class="lastest_entry">
-                    <h3><?=$latestPost->title?></h3>
-                    <?=$latestPost->content?>
-                    <a href="<?=$latestPost->permalink?>" title="latest blog entry">permalink</a>
+                    <h3><?=$latestPost["title"]?></h3>
+                    <?=$latestPost["content"]?>
+                    <a href="<?=$latestPost["permalink"]?>" title="latest blog entry">permalink</a>
                 </div>
             </div>
         </div>
