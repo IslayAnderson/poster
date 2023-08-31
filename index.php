@@ -20,6 +20,7 @@
                 $categories[rand(0, count($categories)-1)]->name,
                 $categories[rand(0, count($categories)-1)]->name
             );
+            $wordpress->closeConnection();
         ?>
         <h1 class="title">Islay Anderson<span><?=$randCat[0]?>, <?=$randCat[1]?>, <?=$randCat[2]?>, <?=$randCat[3]?></span></h1>
     </header>
