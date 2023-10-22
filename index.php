@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Islay Anderson</title>
+    <meta name="description" content="Experienced Web Developer with 7 years of expertise across freelance, agency, and public sector roles, with a strong focus on delivering value building tools, solutions and products that help teams and departments achieve their goals.">
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
