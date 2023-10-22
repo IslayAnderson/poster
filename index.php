@@ -9,7 +9,7 @@
 </head>
 <body>
 <header>
-    <h1 class="title">Islay Anderson<span>cat0, cat1, cat2, cat3</span></h1>
+    <h1 class="title">Islay Anderson<br>Manchester based Web Developer<span>Photography, Engineering, Politics, Art</span></h1>
 </header>
 <main>
     <div class="row">
@@ -36,10 +36,10 @@
             </div>
         </div>
         <div class="project proof">
-            <img src="https://photography.islayanderson.co.uk/i.php?/upload/2023/08/20/20230820141935-c6a72f48-xx.jpg">
+            <img src="/images/000087530035.jpg" alt="black and white photograph of stockport train station empty">
         </div>
         <div class="project proof">
-            <img src="https://photography.islayanderson.co.uk/i.php?/upload/2023/08/20/20230820131817-082dd59d-la.jpg">
+            <img src="/images/f60e9555-3abe-4730-b0a4-3f89fc7dcd59.jpg" alt="Islay giving a speech at a protest about cuba">
         </div>
         <div class="project headline">
             <a href="https://blog.islayanderson.co.uk" class="section_headline">
@@ -47,8 +47,8 @@
             </a>
             <div class="h_line"></div>
             <div class="lastest_entry">
-                <h3>blog title</h3>
-                <p>blog content</p
+                <h3>Morphological understanding and root word highlighting in bionic reading assistive tools</h3>
+                <p>In my last update to this project I implemented functionality to check if the text</p
                 <a href="#" title="latest blog entry">permalink</a>
             </div>
         </div>
