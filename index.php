@@ -48,7 +48,10 @@
             <div class="h_line"></div>
             <div class="lastest_entry">
                 <h3>Morphological understanding and root word highlighting in bionic reading assistive tools</h3>
-                <p>In my last update to this project I implemented functionality to check if the text</p
+                <p>In my last update to this project I implemented functionality to check if the text was in the viewport to improve performance and using the perceived contrast algorithm laid out in the wcag 2.1 spec, functionality that changes the font colour of the highlighted text to the highest contrast colour against the existing background.</p>
+                <p>This update introduces root word highlighting to bionic reading, instead of highlighting just the first half of the word the system finds the root of the word and highlights just that.</p>
+                <p>As described by:&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405785/">An investigation of morphological awareness and processing in adults with low literacy</a>&nbsp;tests in adults and children suggest that encouraging a breakdown and understanding of words and their particular components shows an improvement in the frequency of correct understanding and spelling.</p>
+                <p>By highlighting the root of words it aims to take advantage of already existing knowledge and recognition of words to assist reading accuracy.</p>
                 <a href="#" title="latest blog entry">permalink</a>
             </div>
         </div>
