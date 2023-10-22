@@ -36,10 +36,10 @@
             </div>
         </div>
         <div class="project proof">
-            <img src="/images/000087530035.jpg" alt="black and white photograph of stockport train station empty">
+            <img src="/images/000087530035.webp" alt="black and white photograph of stockport train station empty">
         </div>
         <div class="project proof">
-            <img src="/images/f60e9555-3abe-4730-b0a4-3f89fc7dcd59.jpg" alt="Islay giving a speech at a protest about cuba">
+            <img src="/images/f60e9555-3abe-4730-b0a4-3f89fc7dcd59.webp" alt="Islay giving a speech at a protest about cuba">
         </div>
         <div class="project headline">
             <a href="https://blog.islayanderson.co.uk" class="section_headline">
