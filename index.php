@@ -9,6 +9,15 @@
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-823JYN3Q13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-823JYN3Q13');
+</script>
 <header>
     <h1 class="title">Islay Anderson<br>Manchester based Web Developer<span>Photography, Engineering, Politics, Art</span></h1>
 </header>
