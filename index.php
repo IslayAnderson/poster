@@ -19,7 +19,7 @@
   gtag('config', 'G-823JYN3Q13');
 </script>
 <header>
-    <h1 class="title">Islay Anderson<br>Manchester based Web Developer<span>Photography, Engineering, Politics, Art</span></h1>
+    <h1 class="title">Islay Anderson<br>Manchester based Web Developer Photography, Engineering, Politics, Art</h1>
 </header>
 <main>
     <div class="row">
