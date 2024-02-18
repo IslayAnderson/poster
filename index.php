@@ -19,10 +19,28 @@
   gtag('config', 'G-823JYN3Q13');
 </script>
 <header>
-    <h1 class="title">Islay Anderson<br>Manchester based Web Developer Photography, Engineering, Politics, Art</h1>
+    <h1 class="title">Islay Anderson<br>Manchester based Web Developer Photography, Development, Politics, Art</h1>
 </header>
 <main>
     <div class="row">
+        <div class="project proof">
+            <img src="/images/f60e9555-3abe-4730-b0a4-3f89fc7dcd59.webp" alt="Islay giving a speech at a protest about cuba">
+        </div>
+        <div class="project headline">
+            <a href="https://blog.islayanderson.co.uk" class="section_headline">
+                <h2>Development Blog</h2>
+            </a>
+            <div class="h_line"></div>
+            <div class="lastest_entry">
+                <h3>Morphological understanding and root word highlighting in bionic reading assistive tools</h3>
+                <p>In my last update to this project I implemented functionality to check if the text was in the viewport to improve performance and using the perceived contrast algorithm laid out in the wcag 2.1 spec, functionality that changes the font colour of the highlighted text to the highest contrast colour against the existing background.</p>
+                <p>This update introduces root word highlighting to bionic reading, instead of highlighting just the first half of the word the system finds the root of the word and highlights just that.</p>
+                <p>As described by:&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405785/">An investigation of morphological awareness and processing in adults with low literacy</a>&nbsp;tests in adults and children suggest that encouraging a breakdown and understanding of words and their particular components shows an improvement in the frequency of correct understanding and spelling.</p>
+                <p>By highlighting the root of words it aims to take advantage of already existing knowledge and recognition of words to assist reading accuracy.</p>
+                <a href="#" title="latest blog entry">permalink</a>
+            </div>
+        </div>
+        <!--
         <div class="project headline">
             <a href="https://photography.islayanderson.co.uk" class="section_headline">
                 <h2>Photography</h2>
@@ -45,27 +63,12 @@
                 <span>XP2</span>
             </div>
         </div>
+
         <div class="project proof">
             <img src="/images/000087530035.webp" alt="black and white photograph of stockport train station empty">
         </div>
-        <div class="project proof">
-            <img src="/images/f60e9555-3abe-4730-b0a4-3f89fc7dcd59.webp" alt="Islay giving a speech at a protest about cuba">
-        </div>
-        <div class="project headline">
-            <a href="https://blog.islayanderson.co.uk" class="section_headline">
-                <h2>Engineering &amp; Politics Blog</h2>
-            </a>
-            <div class="h_line"></div>
-            <div class="lastest_entry">
-                <h3>Morphological understanding and root word highlighting in bionic reading assistive tools</h3>
-                <p>In my last update to this project I implemented functionality to check if the text was in the viewport to improve performance and using the perceived contrast algorithm laid out in the wcag 2.1 spec, functionality that changes the font colour of the highlighted text to the highest contrast colour against the existing background.</p>
-                <p>This update introduces root word highlighting to bionic reading, instead of highlighting just the first half of the word the system finds the root of the word and highlights just that.</p>
-                <p>As described by:&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405785/">An investigation of morphological awareness and processing in adults with low literacy</a>&nbsp;tests in adults and children suggest that encouraging a breakdown and understanding of words and their particular components shows an improvement in the frequency of correct understanding and spelling.</p>
-                <p>By highlighting the root of words it aims to take advantage of already existing knowledge and recognition of words to assist reading accuracy.</p>
-                <a href="#" title="latest blog entry">permalink</a>
-            </div>
-        </div>
     </div>
+-->
 </main>
 
 <script src="script/main.js"></script>
