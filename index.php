@@ -29,7 +29,7 @@
         </div>
         <div class="project headline">
             <a href="https://blog.islayanderson.co.uk" class="section_headline">
-                <h2>My Blog</h2>
+                <h2>Blog</h2>
             </a>
             <div class="h_line"></div>
             <div class="lastest_entry">
