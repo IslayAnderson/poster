@@ -38,7 +38,7 @@
                 <p>This update introduces root word highlighting to bionic reading, instead of highlighting just the first half of the word the system finds the root of the word and highlights just that.</p>
                 <p>As described by:&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405785/">An investigation of morphological awareness and processing in adults with low literacy</a>&nbsp;tests in adults and children suggest that encouraging a breakdown and understanding of words and their particular components shows an improvement in the frequency of correct understanding and spelling.</p>
                 <p>By highlighting the root of words it aims to take advantage of already existing knowledge and recognition of words to assist reading accuracy.</p>
-                <a href="#" title="latest blog entry">permalink</a>
+                <a href="https://blog.islayanderson.co.uk/2023/02/09/morphological-understanding-and-root-word-highlighting-in-bionic-reading-assistive-tools/" title="latest blog entry">permalink</a>
             </div>
         </div>
         
@@ -63,6 +63,8 @@
                 <span>UltraMax 400</span>
                 <span>XP2</span>
             </div>
+            <p>I like photography</p>
+            
         </div>
 
         <div class="project proof">
