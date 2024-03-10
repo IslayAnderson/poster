@@ -41,9 +41,9 @@
                 <a href="#" title="latest blog entry">permalink</a>
             </div>
         </div>
-        <!--
+        
         <div class="project headline">
-            <a href="https://photography.islayanderson.co.uk" class="section_headline">
+            <a href="https://blog.islayanderson.co.uk/photography" class="section_headline">
                 <h2>Photography</h2>
             </a>
             <div class="h_line"></div>
@@ -66,10 +66,10 @@
         </div>
 
         <div class="project proof">
-            <img src="/images/000087530035.webp" alt="black and white photograph of stockport train station empty">
+            <img src="https://blog.islayanderson.co.uk/wp-content/uploads/2024/03/DSCN0135-768x1024.jpg" alt="Moody photo of the portico library in the rain">
         </div>
     </div>
--->
+
 </main>
 
 <script src="script/main.js"></script>
