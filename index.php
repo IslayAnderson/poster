@@ -63,8 +63,8 @@
                 <span>UltraMax 400</span>
                 <span>XP2</span>
             </div>
-            <p>I like photography</p>
-            
+            <p style="width:100%;">I like photography</p>
+
         </div>
 
         <div class="project proof">
