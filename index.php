@@ -25,7 +25,7 @@
 <main>
     <div class="row">
         <div class="project proof">
-            <img src="https://blog.islayanderson.co.uk/wp-content/uploads/2024/03/IMG_1995-scaled.webp" alt="Islay Mirror selfie">
+            <img src="https://blog.islayanderson.co.uk/wp-content/uploads/2024/03/IMG_1995-copy.jpg" alt="Islay Mirror selfie">
         </div>
         <div class="project headline">
             <a href="https://blog.islayanderson.co.uk" class="section_headline">
